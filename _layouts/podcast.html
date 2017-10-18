@@ -26,9 +26,11 @@
           <li>
             <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
             <a class="podcast-icon" href="{{ podcast.itunes }}"><i class="fa fa-apple fa-lg"></i></a> |
-            <a class="podcast-icon" href="{{ podcast.rss }}"><i class="fa fa-rss-square fa-lg"></i></a> |
-            <a class="podcast-icon" href="https://twitter.com/{{ podcast.twitter }}"><i class="fa fa-twitter-square fa-lg"></i></a>
-          </li>
+            <a class="podcast-icon" href="{{ podcast.rss }}"><i class="fa fa-rss-square fa-lg"></i></a> 
+	    {% if podcast.twitter %}
+	     | <a class="podcast-icon" href="https://twitter.com/{{ podcast.twitter }}"><i class="fa fa-twitter-square fa-lg"></i></a>
+	    {% endif %}
+	 </li>
           {% endfor %}
         </ul>
       </section>
