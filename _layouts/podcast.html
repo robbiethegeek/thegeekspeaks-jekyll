@@ -37,7 +37,7 @@
 	<section>
         <h3>Wrestling Podcasts</h3>
         <ul>
-          {% for podcast in site.data.wrestling %}
+          {% for podcast in site.data.wrestling-podcasts %}
           {{ podcast.inspect }}
           <li>
             <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
@@ -53,7 +53,7 @@
 	<section>
         <h3>ComedyPodcasts</h3>
         <ul>
-          {% for podcast in site.data.comedy %}
+          {% for podcast in site.data.comedy-podcasts %}
           {{ podcast.inspect }}
           <li>
             <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
