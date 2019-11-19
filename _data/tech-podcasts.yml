@@ -1,18 +1,3 @@
-- name: Ruby Rogues
-  url: http://rubyrogues.com
-  itunes: https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2
-  rss: http://feeds.feedwrench.com/RubyRogues.rss
-  twitter: rubyrogues
-- name: Javascript Jabber
-  url: http://javascriptjabber.com
-  itunes: https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2
-  rss: http://feeds.feedwrench.com/JavaScriptJabber.rss
-  twitter: JSJabber
-- name: Adventures in Angular
-  url: http://adventuresinangular.com/
-  itunes: https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2
-  rss: http://feeds.feedwrench.com/AdventuresInAngular.rss
-  twitter: angularpodcast
 - name: Giant Robots Smashing into other Giant Robots Podcast
   url: http://giantrobots.fm/
   itunes: https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941
@@ -43,13 +28,48 @@
   itunes: https://itunes.apple.com/us/podcast/turing-incomplete/id886675939
   rss: http://feeds.feedburner.com/Turing-Incomplete
   twitter: turingcool
-- name: Ruby5
-  url: https://ruby5.codeschool.com/
-  itunes: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205
-  rss: https://ruby5.codeschool.com/feed.rss
-  twitter: rubyfive
+- name: Toolsday
+  url: http://toolsday.io/
+  itunes: https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2
+  rss: http://toolsday.io/feeds/rss.xml
+  twitter: toolsday
+- name: Front End Happy Hour
+  url: http://frontendhappyhour.com/
+  itunes: https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2
+  rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
+  twitter: FrontEndHH
+- name: JS Party
+  url: https://changelog.com/jsparty
+  itunes: https://itunes.apple.com/us/podcast/js-party/id1209616598
+  rss: https://changelog.com/jsparty/feed
+  twitter: changelog  
 - name: DC Tech Stories
   url: http://dctechstories.com/
   itunes: https://itunes.apple.com/us/podcast/dc-tech-stories/id1255302980
   rss: http://dctechstories.com/feed.xml
   twitter: DC_techstories
+- name: Art of Product
+  url: http://artofproductpodcast.com/
+  itunes: https://itunes.apple.com/us/podcast/the-art-of-product/id1243627144
+  rss: http://artofproductpodcast.com/rss
+- name: Hustle Over Entitlement™
+  url: https://hustleoverentitlement.com/
+  itunes: https://itunes.apple.com/us/podcast/hustle-over-entitlement/id1286553735
+  rss: https://hustleoverentitlement.com/feed/
+  twitter: iHustleForIt
+- name: Reply All
+  url: https://gimletmedia.com/reply-all/
+  itunes: https://itunes.apple.com/us/podcast/reply-all/id941907967
+  rss: http://feeds.gimletmedia.com/hearreplyall
+  twitter: replyall
+- name: StartUp
+  url: https://gimletmedia.com/startup/
+  itunes: https://geo.itunes.apple.com/us/podcast/startup-podcast/id913805339
+  rss: http://feeds.gimletmedia.com/hearstartup
+  twitter: podcaststartup
+- name: Greater Than Code
+  url: https://www.greaterthancode.com/
+  itunes: https://itunes.apple.com/us/podcast/greater-than-code/id1163023878?mt=2
+  rss: https://www.greaterthancode.com/feed/podcast
+  twitter: greaterthancode
+

@@ -1,3 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.idea/
+.vscode/
+typings/
+/.idea/workspace.xml
