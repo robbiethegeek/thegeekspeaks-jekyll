@@ -1,0 +1,85 @@
+- section: Technology
+  podcasts: 
+    - name: Giant Robots Smashing into other Giant Robots
+      url: http://giantrobots.fm/
+      itunes: https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941
+      rss: http://simplecast.fm/podcasts/271/rss
+      twitter: thoughtbot
+    - name: The Bike Shed
+      url: http://bikeshed.fm/
+      itunes: https://itunes.apple.com/us/podcast/the-bike-shed/id935763119
+      rss: http://simplecast.fm/podcasts/282/rss
+      twitter: _bikeshed
+    - name: The Changelog
+      url: https://changelog.com/
+      itunes: https://itunes.apple.com/podcast/the-changelog/id341623264
+      rss: http://feeds.5by5.tv/changelog
+      twitter: changelog
+    - name: JS Party
+      url: https://changelog.com/jsparty
+      itunes: https://itunes.apple.com/us/podcast/js-party/id1209616598
+      rss: https://changelog.com/jsparty/feed
+      twitter: changelog  
+    - name: DC Tech Stories
+      url: http://dctechstories.com/
+      itunes: https://itunes.apple.com/us/podcast/dc-tech-stories/id1255302980
+      rss: http://dctechstories.com/feed.xml
+      twitter: DC_techstories
+    - name: Art of Product
+      url: http://artofproductpodcast.com/
+      itunes: https://itunes.apple.com/us/podcast/the-art-of-product/id1243627144
+      rss: http://artofproductpodcast.com/rss
+    - name: Hustle Over Entitlement™
+      url: https://hustleoverentitlement.com/
+      itunes: https://itunes.apple.com/us/podcast/hustle-over-entitlement/id1286553735
+      rss: https://hustleoverentitlement.com/feed/
+      twitter: iHustleForIt
+    - name: Reply All
+      url: https://gimletmedia.com/reply-all/
+      itunes: https://itunes.apple.com/us/podcast/reply-all/id941907967
+      rss: http://feeds.gimletmedia.com/hearreplyall
+      twitter: replyall
+    - name: Greater Than Code
+      url: https://www.greaterthancode.com/
+      itunes: https://itunes.apple.com/us/podcast/greater-than-code/id1163023878?mt=2
+      rss: https://www.greaterthancode.com/feed/podcast
+      twitter: greaterthancode
+- section: Comedy
+  podcasts:
+    - name: All Fantasy Everything
+      url: https://headgum.com/all-fantasy-everything
+      itunes: https://itunes.apple.com/us/podcast/id1155320115?at=1000lMpE&ct=hgdotcom-podcast-page
+      rss: https://warp.gumballcdn.com/v1/rss?rss=https://rss.art19.com/all-fantasy-everything
+      twitter: AllFantasyPod
+    - name: Kill Tony
+      url: https://headgum.com/all-fantasy-everything
+      itunes: https://itunes.apple.com/us/podcast/kill-tony/id1042361179
+      rss: http://www.deathsquad.tv/category/kill-tony/feed/
+      twitter: KILLTONY
+    - name: Your Mom's House with Christina P. and Tom Segura 
+      url: http://www.yourmomshousepodcast.com/
+      itunes: https://geo.itunes.apple.com/us/podcast/your-moms-house-christina/id503482646
+      rss: http://www.yourmomshousepodcast.com/blog/?format=rss
+      twitter: YMHBlueBan
+    - name: Bertcast
+      url: http://bertcast.com/
+      itunes: https://itunes.apple.com/us/podcast/bertcasts-podcast/id585103759
+      rss: http://bertcast.libsyn.com/rss
+      twitter: bertcast
+- section: Wrestling
+  podcasts:
+    - name: 83 Weeks with Eric Bischoff
+      url: https://www.facebook.com/83Weeks/
+      itunes: https://itunes.apple.com/us/podcast/83-weeks-with-eric-bischoff-podcast/id1380281467?mt=2
+      rss: https://omny.fm/shows/83-weeks-with-eric-bischoff/playlists/podcast.rss
+      twitter: 83weeks
+    - name: Art of Wrestling
+      url: http://coltcabana.com/
+      itunes: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=385017460
+      rss: https://feeds.soundcloud.com/users/soundcloud:users:98602096/sounds.rss
+      twitter: COLTCABANA
+    - name: Sam Roberts Wrestling Podcast
+      url: http://notsam.com/wrestlingpodcast/
+      itunes: https://itunes.apple.com/us/podcast/sam-roberts-wrestling-podcast/id934576040
+      rss: http://samrobertswrestling.libsyn.com/rss
+      twitter: notsam
