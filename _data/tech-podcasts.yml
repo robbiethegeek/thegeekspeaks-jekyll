@@ -13,31 +13,6 @@
   itunes: https://itunes.apple.com/podcast/the-changelog/id341623264
   rss: http://feeds.5by5.tv/changelog
   twitter: changelog
-- name: NodeUp
-  url: http://nodeup.com/
-  itunes: itms://itunes.apple.com/us/podcast/nodeup/id447667314?ign-mpt=uo%3D4
-  rss: http://feeds.feedburner.com/NodeUp
-  twitter: NodeUp
-- name: Reactive Podcast
-  url: http://reactive.audio/
-  itunes: https://itunes.apple.com/de/podcast/reactive/id1020286000?l=en&mt=2
-  rss: http://simplecast.fm/podcasts/1232/rss
-  twitter: reactivepod
-- name: Turing Incomplete
-  url: http://turing.cool/
-  itunes: https://itunes.apple.com/us/podcast/turing-incomplete/id886675939
-  rss: http://feeds.feedburner.com/Turing-Incomplete
-  twitter: turingcool
-- name: Toolsday
-  url: http://toolsday.io/
-  itunes: https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2
-  rss: http://toolsday.io/feeds/rss.xml
-  twitter: toolsday
-- name: Front End Happy Hour
-  url: http://frontendhappyhour.com/
-  itunes: https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2
-  rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
-  twitter: FrontEndHH
 - name: JS Party
   url: https://changelog.com/jsparty
   itunes: https://itunes.apple.com/us/podcast/js-party/id1209616598
@@ -62,11 +37,6 @@
   itunes: https://itunes.apple.com/us/podcast/reply-all/id941907967
   rss: http://feeds.gimletmedia.com/hearreplyall
   twitter: replyall
-- name: StartUp
-  url: https://gimletmedia.com/startup/
-  itunes: https://geo.itunes.apple.com/us/podcast/startup-podcast/id913805339
-  rss: http://feeds.gimletmedia.com/hearstartup
-  twitter: podcaststartup
 - name: Greater Than Code
   url: https://www.greaterthancode.com/
   itunes: https://itunes.apple.com/us/podcast/greater-than-code/id1163023878?mt=2
