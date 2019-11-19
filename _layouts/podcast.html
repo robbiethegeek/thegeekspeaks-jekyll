@@ -19,10 +19,42 @@
   <div id="main">
     <article>
       <section>
-        <h3>Podcasts</h3>
+        <h3>Tech Podcasts</h3>
         <ul>
           {% for podcast in site.data.tech-podcasts %}
-          {{ podcast.inspect}}
+          {{ podcast.inspect }}
+          <li>
+            <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
+            <a class="podcast-icon" href="{{ podcast.itunes }}"><i class="fa fa-apple fa-lg"></i></a> |
+            <a class="podcast-icon" href="{{ podcast.rss }}"><i class="fa fa-rss-square fa-lg"></i></a> 
+	    {% if podcast.twitter %}
+	     | <a class="podcast-icon" href="https://twitter.com/{{ podcast.twitter }}"><i class="fa fa-twitter-square fa-lg"></i></a>
+	    {% endif %}
+	 </li>
+          {% endfor %}
+        </ul>
+      </section>
+	<section>
+        <h3>Wrestling Podcasts</h3>
+        <ul>
+          {% for podcast in site.data.wrestling-podcasts %}
+          {{ podcast.inspect }}
+          <li>
+            <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
+            <a class="podcast-icon" href="{{ podcast.itunes }}"><i class="fa fa-apple fa-lg"></i></a> |
+            <a class="podcast-icon" href="{{ podcast.rss }}"><i class="fa fa-rss-square fa-lg"></i></a> 
+	    {% if podcast.twitter %}
+	     | <a class="podcast-icon" href="https://twitter.com/{{ podcast.twitter }}"><i class="fa fa-twitter-square fa-lg"></i></a>
+	    {% endif %}
+	 </li>
+          {% endfor %}
+        </ul>
+      </section>
+	<section>
+        <h3>ComedyPodcasts</h3>
+        <ul>
+          {% for podcast in site.data.comedy-podcasts %}
+          {{ podcast.inspect }}
           <li>
             <a class="podcast-url" href="{{ podcast.url }}">{{podcast.name}}</a>
             <a class="podcast-icon" href="{{ podcast.itunes }}"><i class="fa fa-apple fa-lg"></i></a> |

@@ -1,0 +1,20 @@
+- name: All Fantasy Everything
+  url: https://headgum.com/all-fantasy-everything
+  itunes: https://itunes.apple.com/us/podcast/id1155320115?at=1000lMpE&ct=hgdotcom-podcast-page
+  rss: https://warp.gumballcdn.com/v1/rss?rss=https://rss.art19.com/all-fantasy-everything
+  twitter: AllFantasyPod
+- name: Kill Tony
+  url: https://headgum.com/all-fantasy-everything
+  itunes: https://itunes.apple.com/us/podcast/kill-tony/id1042361179
+  rss: http://www.deathsquad.tv/category/kill-tony/feed/
+  twitter: KILLTONY
+- name: Your Mom's House with Christina P. and Tom Segura 
+  url: http://www.yourmomshousepodcast.com/
+  itunes: https://geo.itunes.apple.com/us/podcast/your-moms-house-christina/id503482646
+  rss: http://www.yourmomshousepodcast.com/blog/?format=rss
+  twitter: YMHBlueBan
+- name: Bertcast
+  url: http://bertcast.com/
+  itunes: https://itunes.apple.com/us/podcast/bertcasts-podcast/id585103759
+  rss: http://bertcast.libsyn.com/rss
+  twitter: bertcast
