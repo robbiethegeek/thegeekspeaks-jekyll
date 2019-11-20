@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ready to pass the baton...
-image: "images/pass-the-baton.jpg"
+image: "/images/pass-the-baton.jpg"
 categories: personal
 excerpt: "I have run my length of the race and feel confident passing the baton to the community I leave behind. I am starting the process of looking for what will be my next role at an organization as a technical leader..."
 ---
