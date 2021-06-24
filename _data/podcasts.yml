@@ -36,11 +36,6 @@
       itunes: https://itunes.apple.com/us/podcast/id1155320115?at=1000lMpE&ct=hgdotcom-podcast-page
       rss: https://warp.gumballcdn.com/v1/rss?rss=https://rss.art19.com/all-fantasy-everything
       twitter: AllFantasyPod
-    - name: Your Mom's House with Christina P. and Tom Segura 
-      url: http://www.yourmomshousepodcast.com/
-      itunes: https://geo.itunes.apple.com/us/podcast/your-moms-house-christina/id503482646
-      rss: http://www.yourmomshousepodcast.com/blog/?format=rss
-      twitter: YMHBlueBan
     - name: Never Not Funny
       url: https://www.nevernotfunny.com/
       itunes: https://podcasts.apple.com/us/podcast/never-not-funny/id142348028
@@ -58,16 +53,16 @@
       itunes: https://podcasts.apple.com/us/podcast/the-filmcast-aka-the-slashfilmcast/id281400220
       rss: https://audioboom.com/channels/4997224.rss
       twitter: slashfilmcast  
-    - name: /Filmcast
-      url: https://www.slashfilm.com/category/features/slashfilmcast/
-      itunes: https://podcasts.apple.com/us/podcast/the-filmcast-aka-the-slashfilmcast/id281400220
-      rss: https://audioboom.com/channels/4997224.rss
-      twitter: slashfilmcast
     - name: Pop Culture Happy Hour
       url: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
       itunes: https://podcasts.apple.com/podcast/id278974813?mt=2&at=11l79Y&ct=nprdirectory
       rss: https://feeds.npr.org/510282/podcast.xml
       twitter: pchh
+    - name: Slash Film Daily
+      url: https://daily.slashfilm.com/
+      itunes: https://podcasts.apple.com/us/podcast/film-daily/id1254073246
+      rss: https://www.podbean.com/site/podcatcher/index/feedurl/http%253A%252F%252Fdaily.slashfilm.com%252Ffeed.xml
+      twitter: SlashFilmDaily  
 - section: Politics
   podcasts:
     - name: Pod Save America
