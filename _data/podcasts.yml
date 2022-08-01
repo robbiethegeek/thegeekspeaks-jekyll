@@ -43,11 +43,6 @@
       twitter: nevernotfunny  
 - section: Pop Culture
   podcasts:
-    - name: Reply All
-      url: https://gimletmedia.com/reply-all/
-      itunes: https://itunes.apple.com/us/podcast/reply-all/id941907967
-      rss: http://feeds.gimletmedia.com/hearreplyall
-      twitter: replyall
     - name: /Filmcast
       url: https://www.slashfilm.com/category/features/slashfilmcast/
       itunes: https://podcasts.apple.com/us/podcast/the-filmcast-aka-the-slashfilmcast/id281400220
@@ -62,7 +57,12 @@
       url: https://daily.slashfilm.com/
       itunes: https://podcasts.apple.com/us/podcast/film-daily/id1254073246
       rss: https://www.podbean.com/site/podcatcher/index/feedurl/http%253A%252F%252Fdaily.slashfilm.com%252Ffeed.xml
-      twitter: SlashFilmDaily  
+      twitter: SlashFilmDaily
+    - name: The Big Picture
+      url: https://www.theringer.com/the-big-picture
+      itunes: https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196
+      rss: https://open.spotify.com/show/6mTel3azvnK8isLs4VujvF?si=a3d9d3488f5542cf
+      twitter: TheBigPic
 - section: Politics
   podcasts:
     - name: Pod Save America
